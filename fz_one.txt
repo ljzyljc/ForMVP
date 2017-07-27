@@ -1,3 +1,4 @@
-fz_ont�ύ������  fz_two�ύ�����ݣ��ڶ��κϲ�  ����develop ����ɺ�merge��develop 
-fz_ont�ύ������  develop�ύ���ݣ����Գ�ͻ����  ����develop ����ɺ�merge��develop
-fz_two�ڶ����ύ develop�ڶ����ύ
+fz_ont提交的内容  fz_two提交的内容，第二次合并  基于develop ，完成后merge回develop 
+fz_ont提交的内容  develop提交内容，测试冲突问题  基于develop ，完成后merge回develop
+fz_two第二次提交 develop第二次提交
+远程仓库修改
